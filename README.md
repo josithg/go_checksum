@@ -32,7 +32,7 @@ cd go_checksum
 ```
 
 ```
-chmod +x ./build.sh
+chmod +x build.sh
 ```
 
 ```
