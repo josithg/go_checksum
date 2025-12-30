@@ -11,6 +11,7 @@ elif command -v apk >dev/null 2>&1; then
 	sudo apk add go
 else
 	unable to identify distro install golang manually 
+fi
 git clone https://github.com/josithg/go_checksum.git
 cd go_checksum
 go mod tidy 
